@@ -1,1 +1,11 @@
-
+elasticsearch
+logstash
+kibana
+prom/prometheus
+grafana/grafana
+rancher/server
+rancher/agent
+rancher/agent-instance
+rancher/k8s
+rancher/mesos-master
+rancher/kubernetes-agent
