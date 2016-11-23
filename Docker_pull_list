@@ -7,3 +7,5 @@ rancher/server
 rancher/agent
 rancher/agent-instance
 nginx
+consul
+zookeeper
