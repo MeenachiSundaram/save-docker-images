@@ -9,3 +9,5 @@ rancher/agent-instance
 nginx
 consul
 zookeeper
+quay.io/coreos/etcd
+haproxy
