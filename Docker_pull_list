@@ -11,3 +11,4 @@ consul
 zookeeper
 quay.io/coreos/etcd
 haproxy
+docker.bintray.io/jfrog/artifactory-oss
