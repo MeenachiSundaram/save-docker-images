@@ -12,3 +12,10 @@ zookeeper
 quay.io/coreos/etcd
 haproxy
 docker.bintray.io/jfrog/artifactory-oss
+schoolofdevops/ansible-controller
+schoolofdevops/centos-node
+schoolofdevops/ubuntu-node
+schoolofdevops/puppet-controller
+schoolofdevops/puppet-centos6-node
+schoolofdevops/chef-controller
+schoolofdevops/puppet-ubuntu-node
