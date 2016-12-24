@@ -19,3 +19,4 @@ schoolofdevops/puppet-controller:v1.0
 schoolofdevops/puppet-centos6-node:v1.0
 schoolofdevops/chef-controller:v1.0
 schoolofdevops/puppet-ubuntu-node:v1.0
+ubuntu:xenial-20161213
