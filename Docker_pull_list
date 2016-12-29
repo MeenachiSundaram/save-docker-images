@@ -2,7 +2,7 @@ elasticsearch:1.7.6-alpine
 logstash:1.5.6-alpine
 kibana:5.1.1
 prom/prometheus:v1.4.1
-grafana/grafana:4.0.2-1481203731
+grafana/grafana:4.0.2
 rancher/server:v1.2.2
 rancher/agent:v1.1.0
 rancher/agent-instance:v0.8.3
@@ -19,4 +19,4 @@ schoolofdevops/puppet-controller:v1.0
 schoolofdevops/puppet-centos6-node:v1.0
 schoolofdevops/chef-controller:v1.0
 schoolofdevops/puppet-ubuntu-node:v1.0
-ubuntu:xenial-20161213
+ubuntu:16.04
