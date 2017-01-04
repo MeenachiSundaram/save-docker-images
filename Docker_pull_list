@@ -20,4 +20,6 @@ schoolofdevops/puppet-centos6-node:v1.0
 schoolofdevops/chef-controller:v1.0
 schoolofdevops/puppet-ubuntu-node:v1.0
 ubuntu:16.04
-
+schoolofdevops/voteapp-node:v0.1.0
+schoolofdevops/voteapp-python:v0.1.0
+schoolofdevops/voteapp-mvn:v0.1.0
