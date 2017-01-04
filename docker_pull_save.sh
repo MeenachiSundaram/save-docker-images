@@ -7,7 +7,7 @@ for (( i=0;i<${#name[@]}; i++ ))
         do
                 docker pull ${name[$i]}
                 if [ $? -eq 0 ]; then
-                        rename=$(sed 's/\//_/g' <<< ${name[$i]} | sed 's/:/#/g' )
+                        rename=$(sed 's/\//_/g' <<< ${name[$i]} | sed 's/:/_/g' )
                         echo $rename
                         docker save ${name[$i]} > ./docker-local-images/$rename.tar
                 fi
